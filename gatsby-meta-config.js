@@ -1,14 +1,14 @@
 module.exports = {
   title: `여름산책`,
-  description: `Blog posted about ...`,
+  description: `Develop`,
   author: `이주형`,
-  introduction: `I explain with words and code. I explain with words and code. I explain with words and code.`,
+  introduction: `블로그 이사중!`,
   siteUrl: `https://juhyung990122.github.io/`, // Your blog site url
   social: {
     twitter: ``, // Your Twitter account
-    github: ``, // Your GitHub account
+    github: `https://github.com/Juhyung990122`, // Your GitHub account
     medium: ``, // Your Medium account
-    facebook: ``, // Your Facebook account
+    facebook: `https://www.facebook.com/profile.php?id=100014754104221`, // Your Facebook account
     linkedin: ``, // Your LinkedIn account
   },
   icon: `content/assets/felog.png`, // Add your favicon
