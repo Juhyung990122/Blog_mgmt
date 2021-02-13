@@ -23,5 +23,9 @@ before_install:
 install:
   - npm install
 
+before_script:
+  - git config --global user.name 'Juhyung990122'
+  - git config --global user.email 'harukawa99@naver.com'
+
 script:
   - gatsby build && gh-pages -d public -b master
