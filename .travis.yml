@@ -28,4 +28,4 @@ before_script:
   - git config --global user.email 'harukawa99@naver.com'
 
 script:
-  - gatsby build && gh-pages -d public -b https://$GIHHUB_TOKEN@github.com/Juhyung990122/Juhyung990122.github.io
+  - gatsby build && gh-pages -d public -b https://github.com/Juhyung990122/Juhyung990122.github.io
