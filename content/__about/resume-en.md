@@ -8,11 +8,10 @@ lang: 'en'
 
 <div align="center">
 
-Junior Backend Developer
+**Junior Backend Developer**
 
-
-Github: https://github.com/Juhyung990122
-Resume : https://www.notion.so/Guinness-ba630287a2bf49e8956498780c8ce660
-
+🌱** Github: ** https://github.com/Juhyung990122
+🌱** Resume: ** https://www.notion.so/Guinness-ba630287a2bf49e8956498780c8ce660
+🌱** Contact: ** harukawa99@naver.com
 
 </div>

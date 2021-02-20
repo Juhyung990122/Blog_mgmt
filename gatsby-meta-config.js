@@ -1,8 +1,8 @@
 module.exports = {
   title: `여름산책`,
-  description: `Develop`,
+  description: `Leejuhyung(Guinness)`,
   author: `이주형`,
-  introduction: `블로그 이사중!`,
+  introduction: `平常心`,
   siteUrl: `https://juhyung990122.github.io/`, // Your blog site url
   social: {
     twitter: ``, // Your Twitter account
