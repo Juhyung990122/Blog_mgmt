@@ -4,10 +4,15 @@ date: 2019-1-27 16:21:13
 lang: 'en'
 ---
 
-# Your name
+# Juhyung Lee (Guinness)
 
 <div align="center">
 
-_Thank you for reading my resume. If you want to contact me, Please send me an email._
+Junior Backend Developer
+
+
+Github: https://github.com/Juhyung990122
+Resume : https://www.notion.so/Guinness-ba630287a2bf49e8956498780c8ce660
+
 
 </div>
