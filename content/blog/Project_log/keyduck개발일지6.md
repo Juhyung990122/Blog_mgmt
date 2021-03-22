@@ -36,16 +36,15 @@ https://sonbbang78.tistory.com/2 다음 링크에서 제시하는 방법대로 �
 
 3. Intellij dependency 설정<br>
 플러그인으로 Mapstruct Support 다운로드 한 후 build.gradle에
-```
+```Java
 plugin{
     ...
     id 'net.ltgt.apt' version '0.15'
 }
 apply plugin: "net.ltgt.apt"
-
 dependencies{
     ...
-    롬복 바로아래
+    lombok
     compile('org.mapstruct:mapstruct:1.3.0.Beta2')
 	compileOnly('org.mapstruct:mapstruct-processor:1.3.0.Beta2')
 	annotationProcessor('org.mapstruct:mapstruct-processor:1.3.0.Beta2')
