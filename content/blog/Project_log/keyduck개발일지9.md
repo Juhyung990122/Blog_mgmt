@@ -1,11 +1,11 @@
 ---
 title: Keyduck개발일지9
 date: 2021-03-30 20:03:10
-category: project_log
+category: Project_log
 thumbnail: { thumbnailSrc }
 draft: false
 ---
-## 🌟키덕 개발일지 - 8
+## 🌟키덕 개발일지 - 9
 
 ### 🎯깃허브 링크 
 https://github.com/Juhyung990122/Keyduck_back

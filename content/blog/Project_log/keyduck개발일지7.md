@@ -1,7 +1,7 @@
 ---
 title: Keyduck개발일지7
 date: 2021-03-22 22:03:05
-category: project_log
+category: Project_log
 thumbnail: { thumbnailSrc }
 draft: false
 ---
