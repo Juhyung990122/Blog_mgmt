@@ -34,6 +34,4 @@ https://github.com/Juhyung990122/Keyduck_back
     하지만 이럴거면 그냥 RuntimeException에 메세지만 주면 되지않나..라는 생각이 좌우뇌를 스치고...ㅎ 커스텀예외를 사용할만한 상황을 생각해보니 메세지에 범위값이나 필드처럼 이것저것 정보가 많이 들어갈때 사용하면 좋을 것 같더라구요!.. 그래서 일단 지금 커스텀예외는 삭제하고 필요할때 사용할까 합니다...ㅎㅎ
 
 
-
-
 https://cheese10yun.github.io/spring-guide-exception/
