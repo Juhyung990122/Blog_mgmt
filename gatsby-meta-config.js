@@ -1,6 +1,6 @@
 module.exports = {
   title: `여름산책`,
-  description: `Leejuhyung(Guinness)`,
+  description: `Leejuhyung(Summer)`,
   author: `이주형`,
   introduction: `平常心`,
   siteUrl: `https://juhyung990122.github.io/`, // Your blog site url
