@@ -66,4 +66,4 @@ try{
 3. No tests found for given includes:<br>
 
 **문제 :** 테스트환경설정 오류입니다.<br>
-**해결 :** Preference > Gradle(혹은 Maven) > Test환경설정을 IntelliJ IDEA로 변경 <br>
+**해결 :** Preference > Gradle(혹은 Maven) > Test환경설정을 IntelliJ IDEA로 변경 <br> 
