@@ -1,5 +1,5 @@
 ---
-title: keyduck개발일지18
+title: keyduck개발일지20
 date: 2021-07-03 23:45:48
 category: Project_log
 thumbnail: { thumbnailSrc }
@@ -7,7 +7,7 @@ draft: false
 ---
 
 
-## 🌟키덕 개발일지 - 19
+## 🌟키덕 개발일지 - 20
 
 ### 🎯깃허브 링크 
 https://github.com/Juhyung990122/Keyduck_back

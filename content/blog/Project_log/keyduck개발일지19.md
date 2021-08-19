@@ -1,5 +1,5 @@
 ---
-title: keyduck개발일지18
+title: keyduck개발일지19
 date: 2021-07-03 23:45:48
 category: Project_log
 thumbnail: { thumbnailSrc }
