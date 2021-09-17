@@ -6,7 +6,7 @@ thumbnail: { thumbnailSrc }
 draft: false
 ---
 
-## 🌟키덕 개발일지 - 20
+## 🌟키덕 개발일지 - 21
 
 ### 🎯깃허브 링크 
 https://github.com/Juhyung990122/Keyduck_back
