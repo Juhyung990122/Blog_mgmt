@@ -21,4 +21,5 @@ https://github.com/Juhyung990122/Keyduck_back
 ### 🎯에러로그 및 메모
 1. Mapstruct 전환안됨.<br>
     **원인 :** mapstruct는 map할때 entity의 setter로 동작하는데 @Setter가 누락되어있었습니다.
+    <br>
     **결과 :** @Setter을 추가하여 해결하였습니다.
